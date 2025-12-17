@@ -1,10 +1,8 @@
-#Music Recommendation System (Spotify Audio Features)
+# Music Recommendation System (Spotify Audio Features)
 
 ## Project Overview
 This project builds a **content-based music recommendation system** using Spotify audio features.  
 Songs are recommended based on **sound similarity** rather than popularity or user behavior, making the system interpretable and data-driven.
-
----
 
 ## What This Project Taught Me
 - **content-based recommender**
@@ -13,7 +11,12 @@ Songs are recommended based on **sound similarity** rather than popularity or us
 - large, real-world datasets
 - Balanced **model performance, interpretability, and practicality*
 
----
+## Tools & Technologies
+- Python
+- Pandas, NumPy
+- Scikit-learn (KMeans, PCA, t-SNE)
+- Plotly, Matplotlib, Seaborn
+- Spotify Web API (Spotipy)
 
 ## Dataset
 The project uses Spotify datasets containing:
@@ -23,8 +26,6 @@ The project uses Spotify datasets containing:
   - Danceability, energy, valence
   - Acousticness, instrumentalness, loudness
   - Tempo, speechiness, popularity
-
----
 
 ## Methodology
 
@@ -60,17 +61,6 @@ Spotify’s API (Spotipy) is used to retrieve missing track features when needed
 - Otherside – Red Hot Chili Peppers
 - Hanging By A Moment – Lifehouse
 - No Excuses – Alice In Chains
-
----
-
-## Tools & Technologies
-- Python
-- Pandas, NumPy
-- Scikit-learn (KMeans, PCA, t-SNE)
-- Plotly, Matplotlib, Seaborn
-- Spotify Web API (Spotipy)
-
----
 
 ## Key Takeaways
 - Audio features are effective for modeling music similarity
