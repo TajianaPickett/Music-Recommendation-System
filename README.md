@@ -64,3 +64,15 @@ Spotify’s API (Spotipy) is used to retrieve missing track features when needed
 - Audio features are effective for modeling music similarity
 - Clustering reveals structure across genres and listening styles
 - Interpretable, feature-based recommenders can perform well without deep learning
+
+## Quick Visuals
+
+### Genre & Song Clustering
+![Clustering Visualization](quick-visuals/clustering_tsne.png)
+
+### Audio Feature Trends Over Time
+![Audio Features Over Time](quick-visuals/audio_features_over_time.png)
+
+### Recommendation Example
+![Recommendation Example](quick-visuals/recommendation_example.png)
+
