@@ -20,7 +20,6 @@ Songs are recommended based on **sound similarity** rather than popularity or us
 ## Dataset
 The project uses Spotify datasets containing:
 - **170,000+ songs**
-- Genre-level and year-level aggregates
 - Audio features including:
   - Danceability, energy, valence
   - Acousticness, instrumentalness, loudness
