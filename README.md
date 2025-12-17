@@ -3,21 +3,21 @@
 This project builds a **content-based music recommendation system** using Spotify audio features.  
 Songs are recommended based on **sound similarity** rather than popularity or user behavior, making the system interpretable and data-driven.
 
-## What This Project Taught Me
+### What This Project Taught Me
 - **content-based recommender**
 - feature scaling
 - **PCA and t-SNE** to interpret high-dimensional data
 - large, real-world datasets
 - Balanced **model performance, interpretability, and practicality**
 
-## Tools & Technologies
+### Tools & Technologies
 - Python
 - Pandas, NumPy
 - Scikit-learn (KMeans, PCA, t-SNE)
 - Plotly, Matplotlib, Seaborn
 - Spotify Web API (Spotipy)
 
-## Dataset
+### Dataset
 The project uses Spotify datasets containing:
 - **170,000+ songs**
 - Audio features including:
