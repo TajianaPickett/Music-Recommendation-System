@@ -1,1 +1,13 @@
-## t-SNE Cluster Plot
+## Quick Visuals
+
+### Genre & Song Clustering
+Visual representation of song and genre clusters based on Spotify audio features using dimensionality reduction.
+![Clustering Visualization](quick-visuals/clustering_tsne.png)
+
+### Audio Feature Trends Over Time
+Trends in key audio features across decades, highlighting how musical characteristics evolve over time.
+![Audio Features Over Time](quick-visuals/audio_features_over_time.png)
+
+### Recommendation Example
+Example output from the content-based recommendation system given user-selected input songs.
+![Recommendation Example](quick-visuals/recommendation_example.png
