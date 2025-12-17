@@ -1,10 +1,10 @@
 ## Quick Visuals
 
 ### Genre & Song Clustering
-![Clustering Visualization](Quick%20Visuals/clustering_tsne.png)
+![Clustering Visualization](quick-visuals/clustering_tsne.png)
 
 ### Audio Feature Trends Over Time
-![Audio Features Over Time](Quick%20Visuals/audio_features_over_time.png)
+![Audio Features Over Time](quick-visuals/audio_features_over_time.png)
 
 ### Recommendation Example
-![Recommendation Example](Quick%20Visuals/recommendation_example.png)
+![Recommendation Example](quick-visuals/recommendation_example.png)
