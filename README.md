@@ -1,5 +1,4 @@
 # Music Recommendation System (Spotify Audio Features)
-
 ## Project Overview
 This project builds a **content-based music recommendation system** using Spotify audio features.  
 Songs are recommended based on **sound similarity** rather than popularity or user behavior, making the system interpretable and data-driven.
