@@ -8,7 +8,7 @@ Songs are recommended based on **sound similarity** rather than popularity or us
 - feature scaling
 - **PCA and t-SNE** to interpret high-dimensional data
 - large, real-world datasets
-- Balanced **model performance, interpretability, and practicality*
+- Balanced **model performance, interpretability, and practicality**
 
 ## Tools & Technologies
 - Python
